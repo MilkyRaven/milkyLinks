@@ -8,7 +8,7 @@ const twitch = "https://www.twitch.tv/milky_kiwi_dev";
 const twitter = "https://twitter.com/milky_kiwi_dev"
 const tiktok = "https://www.tiktok.com/@milky_kiwi_dev"
 const portfolio = "https://milky-kiwi-portfolio.fly.dev/"
-const mail = "milkykiwidev@gmail.com"
+const mail = "mailto:milkykiwidev@gmail.com"
 
 export default function LinkIcons() {
   return (
